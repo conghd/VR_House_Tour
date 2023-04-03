@@ -6,6 +6,9 @@ TagManager:
   tags:
   - block
   - button
+  - ball
+  - hand
+  - grabbable
   layers:
   - Default
   - TransparentFX
